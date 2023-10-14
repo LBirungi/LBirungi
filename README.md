@@ -7,6 +7,8 @@ My name is Lillian Birungi, I’m a new software developer currently undergoing 
 📱 CSS <br>
 📳 JS - React | Node Js |
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,visualstudio)](https://skillicons.dev)
+
 ### Tasks
 Personal Portfolio
 Frontend Mentor Challenges
@@ -24,5 +26,5 @@ Frontend Mentor Challenges
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/lillian-birungi-6684b440/))
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LBirungi&theme=dark)](https://git.io/streak-stats)
 
