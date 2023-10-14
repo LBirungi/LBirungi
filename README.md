@@ -13,7 +13,7 @@ Frontend Mentor Challenges
 
 ### What I'm Up To
 - 🌱 I’m currently doing a Javascript Bootcamp.
-- 👯 I’m looking to collaborate on coding projects and contribute to opensource
+- 👯 I’m looking to collaborate on coding projects and contribute to OpenSource projects.
 - 💬 Ask me about Javascript.
 
 <a href="https://github.com/LBirungi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LBirungi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="https://github.com/LBirungi/LBirungi/edit/main/README.md"/></a>
