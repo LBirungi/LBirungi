@@ -1,6 +1,6 @@
-### Hi,I'm Lillian 👋
+### Hi there 👋
 
- I am a passionate learner studying Full-stack web development with Javascript.
+My name is Lillian Birungi, I’m a new software developer currently undergoing Bootcamp training, I am very passionate about technology and I spend the majority of my free time refining my skills and grasping new knowledge. I am driven by a passion for creating a positive impact and making a difference to others. I seek out efficient ways of working, new challenges and desire to create innovative solutions.
 
 ### Skills and Experience
 💻 HTML <BR>
