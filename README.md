@@ -1,7 +1,6 @@
 ### Hi,I'm Lillian 👋
 
-
-**LBirungi/LBirungi** I am a passionate learner studying Full-stack web development with Javascript.
+ I am a passionate learner studying Full-stack web development with Javascript.
 
 ### Skills and Experience
 💻 HTML <BR>
